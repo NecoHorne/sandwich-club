@@ -1,5 +1,7 @@
 # Sandwich Club Project
 
+Signed APK file located in sandwich-club\app\release\app-release.apk
+
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
