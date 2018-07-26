@@ -1,6 +1,7 @@
 # Sandwich Club Project
 
 Signed APK file located in sandwich-club\app\release\app-release.apk
+Install on android device or emulator to run. 
 
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
